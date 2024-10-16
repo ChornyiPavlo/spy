@@ -2,5 +2,5 @@ User-Agent: *
 Disallow:
 
 
-Sitemap: http://pin-up.spymission.com.ua/sitemap.xml
-Host: pin-up.spymission.com.ua
+Sitemap: http://mostbet.spymission.com.ua/sitemap.xml
+Host: mostbet.spymission.com.ua
